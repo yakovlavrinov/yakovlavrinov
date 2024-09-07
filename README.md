@@ -1,37 +1,34 @@
-### <div выровнять="center">Я Яков, фронтенд-разработчик</div>  
+### <div align="center">I am Yakov, a  frontend developer</div>  
   
 
-- 🦾 Мой основной набор инструментов TypeScript, React и Redux Toolkit. У меня также есть опыт работы с Vue.js и MobX.  
+- 🦾 My core stack of TypeScript, React, and Redux Toolkit. I also have experience with Vue.js and MobX  
   
 
-- 💼 Сейчас я работаю в Baltic Soft.  
+- 💼 Currently, I’m working at Baltic Soft  
   
 
-- 📚 Я расширяю свои знания в области архитектуры и серверных технологий..  
+- 📚 I’m expanding my knowledge of architecture and backend technologies.  
   
 
-- 🎧 Помимо программирования, я увлекаюсь спортом, музыкой и наукой..  
+- 🎧 Outside of coding, I’m passionate about sports, music, and science.  
   
 
-<Бр/>  
+<br/>  
 
 
-## Мой набор навыков  
+## My Skill Set  
 
 
-### Внешний интерфейс  
-<div выровнять="центр">  
-<А href="https://www.typescriptlang.org/" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" Все="Машинопись" Высота="50" /></А>  
-<А href="https://reactjs.org/" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" Все="Реагировать" Высота="50" /></А>  
-<А href="https://vuejs.org/" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" Все="Просмотр.js" Высота="50" /></А>  
-<А href="https://redux.js.org/" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/redux-original.svg" Все="Редукс" Высота="50" /></А>  
-<А href="https://mui.com/" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/mui.png" Все="Материальный интерфейс" Высота="50" /></А>  
-<А href="https://en.wikipedia.org/wiki/HTML5" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" Все="HTML5" Высота="50" /></А>  
-<А href="https://www.w3schools.com/css/" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" Все="CSS3" Высота="50" /></А>  
-<А href="https://sass-lang.com/" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/sass-original.svg" Все="Сасс" Высота="50" /></А>  
-<А href="https://github.com/" цель="_Пустой"><изображение Стиль="поле: 10 пикселей" источник="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" Все="Гит" Высота="50" /></А>  
+### Frontend  
+<div align="center">  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-<Бр />
-
-----
-<div выровнять="центр">Создано с использованием <А href="https://profilinator.rishav.dev/" цель="_Пустой">Профилинатор на Гитхабе</А></div>
+<br />
