@@ -1,4 +1,4 @@
-<div align="center">I am Yakov, a Software Engineer</div>
+###<div align="center">I am Yakov, a Software Engineer</div>
 
 🦾 My frontend core stack: TypeScript, React, Redux Toolkit, also experienced with Vue.js and MobX
 
