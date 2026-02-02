@@ -11,6 +11,8 @@
 🎧 Outside of coding, I’m passionate about sports, music, and science
 
 <br/>
+<img src="/assets/stack-js.gif"/>
+<br/>
 <div align="center">My Skill Set</div>
 <br/>
 Frontend
