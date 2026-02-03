@@ -1,6 +1,8 @@
 ### <div align="center">I am Yakov, a Software Engineer</div>
 
-Developed the Optimacros CRM / IBP platform — an enterprise solution for financial and operational planning 🌐 https://optimacros.com
+<div align="center">Developed the Optimacros CRM / IBP platform — an enterprise solution for financial and operational planning</div>
+
+<div align="center">🌐 https://optimacros.com</div>
 
 <br/>
 <img src="/assets/stack-js.gif"/>
